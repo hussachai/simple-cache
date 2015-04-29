@@ -1,0 +1,10 @@
+
+*.class
+*.jar
+/cache
+/target
+
+/.settings
+.classpath
+.project
+
